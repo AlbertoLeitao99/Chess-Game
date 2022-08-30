@@ -1,0 +1,8 @@
+.chessPiece{
+    width: 20px;
+    height: 20px;
+}
+
+.chessPiece_onClick{
+    background-color: goldenrod;
+}

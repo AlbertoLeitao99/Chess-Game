@@ -1,0 +1,16 @@
+.squareNotation{
+    width: 62.5px;
+    height: 62.5px;
+}
+
+.whiteSquare{
+    background-color: white;
+    color: black;
+}
+
+.blackSquare{
+    background-color: black;
+    color: white;
+}
+
+
